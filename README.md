@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate learner focused on **Cybersecurity, Networking, Business**, and **Finance**. My goal is to successfully establish myself in the Cybersecurity world in the near future.
 
-### 🚀 My Mission
+### 🚀 About Me
 I'm currently pursuing a Bachelor's degree in **Information Technology** with majors in **Cybersecurity and Networking** and **Business Information Systems**, and I'm also considering extending my studies into **Economics** and **Finance** to further complement my knowledge. I'm always striving to be the best version of myself, both physically and mentally, as I balance my personal interests with my professional goals.
 
 ### 🔧 Technologies & Tools I Love
