@@ -37,7 +37,7 @@ Here are some of the tools and technologies I’m currently learning:
 I work on a variety of personal and academic projects ranging from cybersecurity research to creating applications that solve real-world problems. Although my portfolio is in its very early stages, I hope to soon fill this with a nuance of projects. Some of my key interests include:
 
 - **Cybersecurity**: Developing tools, scripts, and methodologies for improving security practices and understanding potential vulnerabilities.
-- **FinTech**: Learning the latest trends and technologies in finance, such as blockchain, cryptocurrency, and the intersection of finance with technology.
+- **FinTech**: Learning the latest trends and technologies in finance, such as blockchain, payment methods, and the intersection of finance with technology.
 
 ### 📈 What’s Next?
 - I’m currently working on building a personal **portfolio of projects**, tailored towards **cybersecurity**.
@@ -51,5 +51,5 @@ Feel free to check out my repositories and let’s connect! 😊
 
 ## 📈 GitHub Stats
 
-![Sam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamHulbert31&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
