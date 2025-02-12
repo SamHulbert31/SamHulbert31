@@ -25,10 +25,6 @@ Here are some of the tools and technologies I’m currently learning:
   - MySQL 🗄️
   - PostgreSQL 🍇
 
-- **Version Control**: 
-  - Git ⚙️
-  - GitHub 🐙
-
 - **Other Tools**: 
   - Linux 🐧
   - VS Code 💻
