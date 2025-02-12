@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a passionate learner focused on **Cybersecurity, Netwo
 ### 🚀 About Me
 I'm currently pursuing a Bachelor's degree in **Information Technology** with majors in **Cybersecurity and Networking** and **Business Information Systems**, and I'm also considering extending my studies into **Economics** and **Finance** to further complement my knowledge. I'm always striving to be the best version of myself, both physically and mentally, as I balance my personal interests with my professional goals.
 
-### 🔧 Technologies & Tools I Love
+### 🔧 Technologies & Tools I Use
 Here are some of the tools and technologies I’m currently learning:
 
 - **Programming Languages**: 
