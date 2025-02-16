@@ -23,7 +23,6 @@ Here are some of the tools and technologies I’m currently learning:
 
 - **Databases**: 
   - MySQL 🗄️
-  - PostgreSQL 🍇
 
 - **Other Tools**: 
   - Linux 🐧
