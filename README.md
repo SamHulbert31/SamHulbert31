@@ -14,6 +14,7 @@ Here are some of the tools and technologies I’m currently learning:
   - HTML 🌐
   - CSS 🎨
   - SQL 🗂️
+  - Bash  
 
 - **Cybersecurity Tools**: 
   - Wireshark 🐟
