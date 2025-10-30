@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m an IT student with a strong interest in **systems, n
 ---
 
 ### 🚀 About Me  
-- 🎓 Final-year **Bachelor of Information Technology** student at UTS  
+- 🎓 **Bachelor of Information Technology** graduate at UTS  
 - 📚 Majors in **Networking & Cybersecurity, and Business Information Systems**  
 - 🛠️ Always experimenting with labs and projects to strengthen real-world skills  
 - 🔍 Interested in **IT administration, systems support, network security, and security best practices**  
